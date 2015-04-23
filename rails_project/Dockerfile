@@ -1,0 +1,3 @@
+FROM nbriar/rails:onbuild
+
+
